@@ -12,7 +12,7 @@ Application that sends push alarm when grade is updated! (for KU only)
  <푸쉬 알림 예시>  
 <img src="./img/1.jpg" width="30%">
 <img src="./img/2.jpg" width="30%">
-<img src="./img/3.jpg" width="30%">
+<img src="./img/3.jpg" width="30%">  
 안드로이드 클라이언트 측에서 로그인 정보를 입력하면, 로그인 정보와 함께 푸쉬 알림을 보내기 위한 핸드폰 정보가 같이 서버로 전송됩니다.  
 DB에 저장된 로그인 정보들로 포탈에 접속해 성적 정보를 크롤링합니다.  
 이 때, 로그인 암호화와 자바스크립트 렌더링 문제를 활용하기 위해 셀레늄이 사용되었습니다.  
