@@ -1,7 +1,7 @@
 # KUGrade
-Application that sends push alarm when grade is updated! (for KU only)  
 성적이 업데이트 되면 푸쉬 알림을 보내주는 어플리케이션입니다. (건국대 서울캠퍼스 전용)  
-  
+Application that sends push alarm when grade is updated! (for KU only)  
+
 ## Contents  
 1. 개발 진행 사항  
 2. 기술 스택 및 용도  
