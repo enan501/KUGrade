@@ -29,7 +29,7 @@ Client측 어플리케이션은 안드로이드 기반으로 작성되었고,
 웹 서버는 아마존 EC2에서 1년간 Free tier로 제공하는 t2.micro 컴퓨터를 활용,  
 python flask로 구축하였고 DB는 MYSQL로 구축하였습니다.
 
-Database skima
+Database skima  
 ![Database](./img/Database_KUGrade_ver_1.png)  
 ※ 절대 이렇게 짜면 안된다는 것을 알고 있습니다
 
