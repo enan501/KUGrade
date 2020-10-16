@@ -1,6 +1,6 @@
 # AlarmGrade
-성적이 업데이트 되면 푸쉬 알림을 보내주는 어플리케이션입니다. (우리학교 전용 - 카카오 블라인드 지원을 위해 포트폴리오에서 학교 이름을 숨겨야 합니다!) 
-Application that sends push alarm when grade is updated! (only for my univ. - because of blind recruit, I have to remove the name of univ.)  
+성적이 업데이트 되면 푸쉬 알림을 보내주는 어플리케이션입니다. (우리학교 전용) 
+Application that sends push alarm when grade is updated! (only for my univ.)  
 
 ## Contents  
 1. 개발 진행 사항  
