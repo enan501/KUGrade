@@ -1,6 +1,8 @@
 # AlarmGrade
-성적이 업데이트 되면 푸쉬 알림을 보내주는 어플리케이션입니다. (우리학교 전용) 
+성적이 업데이트 되면 푸쉬 알림을 보내주는 어플리케이션입니다. (우리학교 전용)  
 Application that sends push alarm when grade is updated! (only for my univ.)  
+
+코드 안에 학교 홈페이지에 접근하는 구문이 있으므로 블라인드 채용에 문제가 생기지 않도록 README만 봐주시면 감사하겠습니다!!  
 
 ## Contents  
 1. 개발 진행 사항  
